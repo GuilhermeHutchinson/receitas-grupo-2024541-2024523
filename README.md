@@ -64,24 +64,28 @@ Os integrantes devem adicionar receitas em arquivos markdown ou HTML, utilizando
 
 
 
-\### 🍰 Sobremesas
 
-\- \[Bolo de Cenoura com Cobertura de Chocolate](receitas/bolo-cenoura.md)
 
 
 
 \### 🥖 Salgados
 
-\- \*Em breve...\*
-
+\- \[Pão de Queijo](receitas/pao-de-queijo.md)
 
 
 \### 🥗 Opções Veganas
 
-\- \*Em breve...\*
+\- \[Humus de Grão](receitas/veganas/humus-grao.md)
 
 
+\### 🫘Feijoada
 
+\- \[Feijoada](receitas/feijoada-colaborativa.md)
+
+
+\### 🍰 Sobremesas
+
+\- \[Bolo de Cenoura com Cobertura de Chocolate](receitas/bolo-cenoura.md)
 ---
 
 
